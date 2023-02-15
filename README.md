@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tristeamer
-- 👀 I make questionably written shell scripts.
+- 👀 I enjoy attempting to write code
 
 <!---
 Tristeamer/Tristeamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
